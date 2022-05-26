@@ -17,8 +17,9 @@ Este programa en C++ permite al usuario la suma de numeros y ver el total.
  MS_c=0,MS_n,MS_s
  
 #### Salida
-  MS_c+MSs_
-	(MS_c<MS_n)
+ MS_c+MS_s
+ 
+ (MS_c<MS_n)
   
 
 ### Compara de dos numeros
@@ -34,6 +35,7 @@ float x,y
 #### Salida
 
 SI (x==y)
+
 SI (x>y) x es el mayor
 
 ### Punto de venta
