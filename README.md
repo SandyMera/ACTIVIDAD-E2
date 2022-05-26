@@ -95,18 +95,28 @@ git clone https://github.com/Josselyn-Banguera/ProgramacionGrupo/blob/main/ACTIV
 
 cd ACTIVIDAD-A2
 
-#### Compilar y ejecutar
+#### Compilar
 
 g++ SumaN.cpp -o SumaN
+
 g++ Compara.cpp -o Compara
+
 g++ Puntoventa.cpp -o Puntoventa
+
 g++ edad.cpp -o edad
+
 g++ Cuentamoneda.cpp -o Cuentamoneda
 
+#### Ejecutar
 
 ./SumaN
+
 ./Compara
+
 ./Puntoventa
+
 ./edad
+
 ./Cuentamoneda
+
 
