@@ -11,11 +11,14 @@ PROGRAMA DE LA ACTIVIDAD-A2
 ### Suma de numeros
 ### Compara de dos numeros
 #### Descripcion del problema
-Este programa de C++ permite comparar dos numeros y determinar si son iguales o cual es menor.
+Este programa de C++ permite comparar dos numeros y determinar si son iguales o cual es mayor.
+
 #### Funcionalidad
-~~
+
+´´'
 float x,y
-´´´
+''
+
 #### Salida
 ''''
 SI (x==y)
