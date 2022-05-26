@@ -1,5 +1,6 @@
 
 ## Programa de C++ de Mera Sandy
+
 ## Informacion del autor
 
 'Autora: Mera Sandy
@@ -95,28 +96,25 @@ git clone https://github.com/Josselyn-Banguera/ProgramacionGrupo/blob/main/ACTIV
 
 cd ACTIVIDAD-A2
 
-#### Compilar
+#### Compilar y ejecutar
 
-g++ SumaN.cpp -o SumaN
+g++ MeraSandy-SumaN.cpp -o MeraSandy-SumaN
 
-g++ Compara.cpp -o Compara
+./MeraSandy-SumaN
 
-g++ Puntoventa.cpp -o Puntoventa
+g++ MeraSandy-Compara.cpp -o MeraSandy-Compara
 
-g++ edad.cpp -o edad
+./MeraSandy-Compara
 
-g++ Cuentamoneda.cpp -o Cuentamoneda
+g++ MeraSandy-Puntoventa.cpp -o MeraSandy-Puntoventa
 
-#### Ejecutar
+./MeraSandy-Puntoventa
 
-./SumaN
 
-./Compara
+g++ MeraSandy-edad.cpp -o edad
+./MeraSandy-edad
 
-./Puntoventa
+g++ MeraSandy-Cuentamoneda.cpp -o MeraSandy-Cuentamoneda
 
-./edad
-
-./Cuentamoneda
-
+./MeraSandy-Cuentamoneda
 
