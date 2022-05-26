@@ -27,3 +27,18 @@ SI (x>y) x es el mayor
 ### Cuenta moneda
 
 ## Instalacion
+
+#### Descargar el repiositorio
+1.-Clonar el repositorio en la maquina local.
+
+´´´´git clone https://github.com/Josselyn-Banguera/ProgramacionGrupo/blob/main/ACTIVIDAD-A2/MeraSandy.h
+
+´´´´cd ACTIVIDAD-A2
+
+### Compilar y ejecutar
+´´´´
+g++ SumaN.cpp -o SumaN
+
+´´´´
+
+./SumaN
