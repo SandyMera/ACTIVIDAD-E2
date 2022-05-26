@@ -92,9 +92,10 @@ float MS_x,MS_a=0, MS_a1=0, MS_a2=0
 #### Descargar el repiositorio
 1.-Clonar el repositorio en la maquina local.
 
-git clone https://github.com/Josselyn-Banguera/ProgramacionGrupo/blob/main/ACTIVIDAD-A2/MeraSandy.h
+git clone https://github.com/SandyMera/ACTIVIDAD-E2/edit/main/README.md
 
-cd ACTIVIDAD-A2
+cd ACTIVIDAD-E2
+
 
 #### Compilar y ejecutar
 
