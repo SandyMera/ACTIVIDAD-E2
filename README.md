@@ -3,7 +3,7 @@ PROGRAMA DE LA ACTIVIDAD-A2
 ## Programa de C++ de Mera Sandy
 ## Informacion del autor
 
-'Autora: Mera Sandy'
+'Autora: Mera Sandy
 
 ' Correo: Sandy.mera.guerrero@utelvt.edu.ec
 
@@ -13,7 +13,7 @@ PROGRAMA DE LA ACTIVIDAD-A2
 #### Descripcion del problema
 Este programa de C++ permite comparar dos numeros y determinar si son iguales o cual es menor.
 #### Funcionalidad
-'''
+~~
 float x,y
 ´´´
 #### Salida
