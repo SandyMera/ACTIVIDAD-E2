@@ -3,11 +3,11 @@
 
 ## Informacion del autor
 
-'###Autora: Mera Sandy
+'### Autora: Mera Sandy
 
-'###Correo: Sandy.mera.guerrero@utelvt.edu.ec
+'### Correo: Sandy.mera.guerrero@utelvt.edu.ec
 
-'###Link: https://github.com/Josselyn-Banguera/ProgramacionGrupo/tree/main/MeraSandy/ACTIVIDAD-B2-C2
+'### Link: https://github.com/Josselyn-Banguera/ProgramacionGrupo/tree/main/MeraSandy/ACTIVIDAD-B2-C2
 
 ## Programas de la ACTIVIDAD-A2
 
